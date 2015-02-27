@@ -10,6 +10,6 @@ public class Controlador{
 	@RequestMapping
 	@ResponseBody
 	public String home(){
-		return "Hola Mundo ";
+		return "Hola Mundo !";
 	}
 }
